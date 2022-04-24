@@ -1,30 +1,36 @@
-- 👋 Hi, I’m @dongsuu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 dongsuu/dongsuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Repository </h1>
-<h2> Who ? </h2>
- Name : Lee Dong Hyun. <br>
- Age : 24 <br>
- University : Dankook University. <br>
- Major : Software <br>
+# Repository
+ ![ss](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+## Who ? 
+ __Name__ : Lee Dong Hyun <br>
+ __Age__ : 24 <br>
+ __University__ : Dankook University <br>
+ __Major__ : Software <br>
  
- <h2> Language </h2>
- c/c++, java, javascript 
+ ## Language 
+ * C/C++ 
+ * Java 
+ * Javascript 
  
- <h2> Tech </h2>
- Front-end : React (I'm doing on a project using React) <br>
- Back-end : Node.js (Studying ... ), Spring (Watching lecture ...)
- 
- <h2> Goal </h2>
- Actually, I haaven't decided on the exact job. <br>
+ ## Tech 
+ | Field | Detail    | tech    | description |
+ |---|:---|:---|---|
+ | Web   | Front-end | React   | I'm doing on a project using React |
+ |       | Back-end  | Django  | Done simple projects|
+ |       |           | Node.js | Studying ...|
+ |       |           | Spring  | Watching lecture and Studying ... |
+        
+ ## Goal 
+ Actually, I haven't decided on the exact job. <br>
  So, I'm studying Front-end, Back-end, etc. 
  
- <h2> MORE </h2>
- [blog](https://hyunn99.tistory.com)
+ ## MORE 
+ ###### Blog
+ [My blog](https://hyunn99.tistory.com)
+ ###### Email
+ suudh99@naver.com
+ 
