@@ -25,8 +25,7 @@ You can click the Preview link to take a look at your changes.
  |       |           | Spring  | Watching lecture and Studying ... |
         
  ## Goal 
- Actually, I haven't decided on the exact job. <br>
- So, I'm studying Front-end, Back-end, etc. 
+ I'm studying Front-end, Back-end, etc. 
  
  ## MORE 
  ###### Blog
