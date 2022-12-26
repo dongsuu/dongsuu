@@ -17,15 +17,14 @@ You can click the Preview link to take a look at your changes.
  * Javascript 
  
  ## Tech 
- | Field | Detail    | tech    | description |
+ | Field | Detail    | tech    |
  |---|:---|:---|---|
- | Web   | Front-end | React   | I'm doing on a project using React |
- |       | Back-end  | Django  | Done simple projects|
- |       |           | Node.js | Studying ...|
- |       |           | Spring  | Watching lecture and Studying ... |
+ | Web   | Front-end | React   | 
+ |       | Back-end  | Spring, JPA  | 
+
         
  ## Goal 
- I'm studying Front-end, Back-end, etc. 
+ 
  
  ## MORE 
  ###### Blog
