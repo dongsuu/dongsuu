@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
  * Dart
  
  ## Tech 
- | Field | Detail    | tech    |
- |---|:---|:---|---|
- | Web   | Front-end | React   | 
+ | Field | Detail    | tech         |
+ | ---   | :---:     | :---:        |
+ | Web   | Front-end | React        | 
  |       | Back-end  | Spring, JPA  | 
- | Mobile| Android   | Compose UI |
+ | Mobile| Android   | Compose UI   |
 
         
  ## Goal 
