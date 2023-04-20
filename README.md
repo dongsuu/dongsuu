@@ -3,8 +3,6 @@
 dongsuu/dongsuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Learn What I don't know, Share What I know.
-
 # Repository
 
 ## Who ? 
@@ -26,9 +24,6 @@ You can click the Preview link to take a look at your changes.
  | Web   | Front-end | React        | 
  |       | Back-end  | Spring, JPA  | 
  | Mobile| Android   | Compose UI   |
-
-        
- ## Goal 
  
  
  ## MORE 
