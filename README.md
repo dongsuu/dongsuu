@@ -15,15 +15,14 @@ You can click the Preview link to take a look at your changes.
  * C/C++ 
  * Java 
  * Kotlin
- * Javascript
  * Dart
  
  ## Tech 
  | Field | Detail    | tech         |
- | ---   | :---:     | :---:        |
- | Web   | Front-end | React        | 
+ | ---   | :---:     | :---:        | 
  |       | Back-end  | Spring, JPA  | 
  | Mobile| Android   | Compose UI   |
+ |       | Hybrid    | Flutter      |
  
  
  ## MORE 
