@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
  __Age__ : 25 <br>
  __University__ : Dankook University <br>
  __Major__ : Software <br>
+ __Current__ : SSAFY 10기 (2023.07 ~)
  
  ## Language 
  * C/C++ 
